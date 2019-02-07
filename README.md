@@ -4,7 +4,7 @@
 [![package downloads](https://img.shields.io/npm/dm/axios-basic-logger.svg?style=flat-square)](https://npmjs.org/package/axios-basic-logger)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![package license](https://img.shields.io/npm/l/axios-basic-logger.svg?style=flat-square)](https://npmjs.org/package/axios-basic-logger)
-[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/axios-basic-logger.svg)](https://greenkeeper.io/)
 
 > Axios logging interceptors
 
